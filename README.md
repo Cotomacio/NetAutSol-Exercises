@@ -16,5 +16,8 @@
   - This is no brainer: After creating my account on Github I installed *Git* on my Ubuntu VM with **sudo apt-get -qq install git**
   
 - **Publish a file on Github**  
-  - Topology:
+  - Topology: I have 3x routers running IOSv with basic IP addressing and OSPF 1 Area 0 configured using Autonetkit
+  
   ![My Topology](https://github.com/Cotomacio/NetAutSol-Exercises/blob/master/1-getting-started-topo.png)
+
+  - I have collected {show ip ospf neighbor} using Ansible Raw module and published here using a pull request
