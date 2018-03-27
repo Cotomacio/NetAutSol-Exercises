@@ -20,4 +20,4 @@
   
      ![My Topology](https://github.com/Cotomacio/NetAutSol-Exercises/blob/master/1-getting-started-topo.png)
 
-  - I have collected 'show ip ospf neighbor' using Ansible Raw module and published here using a pull request
+  - I have collected `show ip ospf neighbor` using Ansible Raw module and published here using a pull request
