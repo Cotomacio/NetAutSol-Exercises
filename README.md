@@ -6,7 +6,7 @@
   - I decided to use Cisco VIRL in my lab for two reasons:
     - [x] I am comfortable with the syntax
     - [x] it's portable
-  The drawback is that it took me a while to setup and figure out how to use it, but the VIRL [book](https://www.amazon.com/VIRL-BOOK-Step-Step-Internet-ebook/dp/B01M0N517P) helped me a lot.
+  - The drawback is that it took me a while to setup and figure out how to use it, but the VIRL [book](https://www.amazon.com/VIRL-BOOK-Step-Step-Internet-ebook/dp/B01M0N517P) helped me a lot.
   
 - **Building the lab:**
   - I used @ipspace [bash script](https://github.com/ipspace/NetOpsWorkshop/blob/master/install/install.sh) to be Up and Running very quick on my VM running Ubuntu 16.04 LTS
@@ -16,4 +16,5 @@
   - This is no brainer: After creating my account on Github I installed *Git* on my Ubuntu VM with **sudo apt-get -qq install git**
   
 - **Publish a file on Github**  
-  - 
+  - Topology:
+  |[NetAutSol-Exercises/1-getting-started-topo.png]
