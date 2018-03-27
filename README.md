@@ -17,4 +17,4 @@
   
 - **Publish a file on Github**  
   - Topology:
-  |[My Topology](https://github.com/Cotomacio/NetAutSol-Exercises/blob/master/1-getting-started-topo.png)
+  ![My Topology](https://github.com/Cotomacio/NetAutSol-Exercises/blob/master/1-getting-started-topo.png)
