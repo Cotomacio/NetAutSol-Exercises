@@ -1,5 +1,5 @@
 # NetAutSol-Exercises
-### Hands-on exercises proposed on Building Network Automation Solutions by @ipspace
+### Hands-on exercises proposed on Building Network Automation Solutions by (@ipspace)
 
 ## 1. GETTING STARTED: BUILD THE LAB
 - **Selecting the gear:** 
