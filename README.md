@@ -10,10 +10,10 @@
   
 - **Building the lab:**
   - I used this [bash script](https://github.com/ipspace/NetOpsWorkshop/blob/master/install/install.sh) to be Up and Running very quick on my VM with Ubuntu 16.04 LTS
-  - In order to have a "recovery points" on my environment I decided not use another technology (Vagrant) but VM Fusion features like Clone and Snapshot
+  - In order to have "recovery points" on my environment I decided not use another technology (Vagrant) but VM Fusion features like Clone and Snapshot
 
 - **Set up Git and Github**
-  - This is no brainer: After creating my account on Github I installed *Git* on my Ubuntu VM with **sudo apt-get -qq install git**
+  - This is no brainer: After creating my account on Github I installed *Git* client on my Ubuntu VM by issuing the command **sudo apt-get -qq install git**
   
 - **Publish a file on Github**
   - I have collected `show ip ospf neighbor` using Ansible Raw module and published here using a pull request
