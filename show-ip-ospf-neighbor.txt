@@ -1,0 +1,76 @@
+r3.lab.local | SUCCESS | rc=0 >>
+
+
+Neighbor ID     Pri   State           Dead Time   Address         Interface
+192.168.0.2       1   FULL/BDR        00:00:37    10.0.0.13       GigabitEthernet0/1
+**************************************************************************
+* IOSv - Cisco Systems Confidential                                      *
+*                                                                        *
+* Supplemental End User License Restrictions                             *
+*                                                                        *
+* This IOSv software is provided AS-IS without warranty of any kind.     *
+* Under no circumstances may this software be used separate from         *
+* the Cisco Modeling Labs Software that this software was provided       *
+*  with, or deployed or used as part of a production environment.        *
+*                                                                        *
+* By using the software, you agree to abide by the terms and             *
+* conditions of the Cisco End User License Agreement at                  *
+* http://www.cisco.com/go/eula.                                          *
+*                                                                        *
+* Unauthorized use or distribution of this software is expressly         *
+* prohibited.                                                            *
+**************************************************************************
+Shared connection to r3.lab.local closed.
+Connection to r3.lab.local closed by remote host.
+
+r2.lab.local | SUCCESS | rc=0 >>
+
+
+Neighbor ID     Pri   State           Dead Time   Address         Interface
+192.168.0.3       1   FULL/DR         00:00:31    10.0.0.14       GigabitEthernet0/2
+192.168.0.1       1   FULL/BDR        00:00:31    10.0.0.9        GigabitEthernet0/1
+**************************************************************************
+* IOSv - Cisco Systems Confidential                                      *
+*                                                                        *
+* Supplemental End User License Restrictions                             *
+*                                                                        *
+* This IOSv software is provided AS-IS without warranty of any kind.     *
+* Under no circumstances may this software be used separate from         *
+* the Cisco Modeling Labs Software that this software was provided       *
+*  with, or deployed or used as part of a production environment.        *
+*                                                                        *
+* By using the software, you agree to abide by the terms and             *
+* conditions of the Cisco End User License Agreement at                  *
+* http://www.cisco.com/go/eula.                                          *
+*                                                                        *
+* Unauthorized use or distribution of this software is expressly         *
+* prohibited.                                                            *
+**************************************************************************
+Shared connection to r2.lab.local closed.
+Connection to r2.lab.local closed by remote host.
+
+r1.lab.local | SUCCESS | rc=0 >>
+
+
+Neighbor ID     Pri   State           Dead Time   Address         Interface
+192.168.0.2       1   FULL/DR         00:00:30    10.0.0.10       GigabitEthernet0/2
+**************************************************************************
+* IOSv - Cisco Systems Confidential                                      *
+*                                                                        *
+* Supplemental End User License Restrictions                             *
+*                                                                        *
+* This IOSv software is provided AS-IS without warranty of any kind.     *
+* Under no circumstances may this software be used separate from         *
+* the Cisco Modeling Labs Software that this software was provided       *
+*  with, or deployed or used as part of a production environment.        *
+*                                                                        *
+* By using the software, you agree to abide by the terms and             *
+* conditions of the Cisco End User License Agreement at                  *
+* http://www.cisco.com/go/eula.                                          *
+*                                                                        *
+* Unauthorized use or distribution of this software is expressly         *
+* prohibited.                                                            *
+**************************************************************************
+Shared connection to r1.lab.local closed.
+Connection to r1.lab.local closed by remote host.
+
