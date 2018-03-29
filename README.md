@@ -16,9 +16,9 @@
   - This is no brainer: After creating my account at GitHub I installed *Git* client on my Ubuntu VM by issuing the command **sudo apt-get -qq install git**
   - Created a new empty GitHub repository for me to use with this course 
   
-- **Publish a file on Github**
+- **Publish a file on GitHub**
   - Collected `show ip ospf neighbor` using Ansible Raw module
-  - Pushed my local repo to the GitHub server by adding this remote repository
+  - Pushed my local *repo* to the GitHub server by adding this remote repository
   - Topology: I have 3x routers running IOSv with basic IP addressing and OSPF 1 Area 0 configured using AutoNetkit
   
      ![My Topology](https://github.com/Cotomacio/NetAutSol-Exercises/blob/master/1-getting-started-topo.png)
